@@ -1,3 +1,3 @@
 Hello this is a part of Branch learning.
 This is not a commit to master branch.
-
+Made conflicts in New-Feature branch.
